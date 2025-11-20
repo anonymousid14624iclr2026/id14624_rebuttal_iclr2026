@@ -1,6 +1,6 @@
 There are two files in this directory:
 
-1. `gauss_seidel_solver.py`: This file contains the implementation of the differentiable Gauss-Seidel solver, which is capable of handling various types of constraints such as distance-based, dihedral-based, and center of mass (COM) constraints.
+1. `gauss_seidel_projection.py`: This file contains the implementation of the differentiable Gauss-Seidel solver, which is capable of handling various types of constraints such as distance-based, dihedral-based, and center of mass (COM) constraints.
 
 2. `configs_model_type.py`: This file includes configuration settings for the evaluation of Protenix model.
 
